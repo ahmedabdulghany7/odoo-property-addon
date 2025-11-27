@@ -127,11 +127,3 @@ LGPL-3
 ## Version
 
 18.0.1.0.0
-
-## Support
-
-For issues, questions, or contributions, please contact the module author.
-
----
-
-**Note**: This module is designed specifically for Odoo 18.0 and may require modifications for compatibility with other versions.
