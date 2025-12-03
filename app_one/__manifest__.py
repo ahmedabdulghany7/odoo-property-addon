@@ -9,9 +9,10 @@
     'data': [
         'views/product_template_views.xml',
     ],
-    'demo': [
+    
+    'demo': [],
 
-    ],
+    'assets': {},
 
     'installable': True,
     'application': True,
