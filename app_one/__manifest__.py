@@ -1,5 +1,5 @@
 {
-    'name': "Real Estate Products",
+    'name': "Real Estate",
     'version': "18.0.1.0.0",
 
     'author': "Ahmed Abdulghany",
