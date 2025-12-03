@@ -4,7 +4,7 @@ class ProductTemplate(models.Model):
     _inherit = "product.template"
 
     project_location = fields.Char(string="Project / Location")
-    type = fields.Char(string="Type")
+    project_type = fields.Char(string="Type")
     building_no = fields.Char(string="Building No.")
     unit_no = fields.Char(string="Unit No.")
     unit_area = fields.Char(string="Unit Area")
